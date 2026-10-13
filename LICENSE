@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2024-2026 Pallet Ross Project Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+### IMPORTANT NOTICE REGARDING VISUAL ASSETS & TRADEMARKS
+
+1. **Source Code vs. Visual Content**:
+   The MIT License above applies strictly to the source code (TypeScript, JavaScript,
+   CSS, HTML, build scripts, and configuration files) contained within this repository.
+
+2. **Artworks & Brand Assets**:
+   The editorial posters, artworks, and brand assets located in `public/assets/artworks/`,
+   `public/assets/brand/`, and `docs/references/` are created and curated specifically for
+   demonstrating the Pallet Ross creative landing page concept. For specific licensing
+   statuses, creative origins, and commercial terms regarding individual artworks,
+   refer directly to `docs/ASSET_MANIFEST.md`.

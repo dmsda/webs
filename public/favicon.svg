@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pallet Ross Turquoise Geometric Brand Mark Favicon -->
+  <!-- Top-Right Blade -->
+  <path d="M11.5 10.5L18.8 4.2C19.8 3.3 21.4 3.6 22.0 4.8C22.6 6.0 22.0 7.5 20.8 8.1L12.5 12.2" fill="#75CFC5" stroke="#75CFC5" stroke-width="1" stroke-linecap="round"/>
+  <!-- Left Blade -->
+  <path d="M10.5 11.5L2.8 10.2C1.5 10.0 0.5 8.7 0.8 7.3C1.1 5.9 2.5 5.1 3.9 5.5L11.5 7.8" fill="#75CFC5" stroke="#75CFC5" stroke-width="1" stroke-linecap="round"/>
+  <!-- Bottom Blade -->
+  <path d="M12.0 12.5L11.2 20.8C11.1 22.2 9.8 23.2 8.4 22.9C7.0 22.6 6.1 21.3 6.4 19.9L9.5 11.8" fill="#75CFC5" stroke="#75CFC5" stroke-width="1" stroke-linecap="round"/>
+  <!-- Center Core -->
+  <circle cx="11.5" cy="11.5" r="2.2" fill="#75CFC5"/>
+</svg>
